@@ -1,0 +1,4 @@
+NOTE page 32: low contrast on the right side
+fixed manually with color leveling (low=0.5 high=1)
+FIXME fix bad characters by transplanting good characters
+see also doc/chat/ChatGPT-Font-Aware-OCR-Training.md

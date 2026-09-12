@@ -1,12 +1,67 @@
-# TODO_BOOK_AUTHOR_NAME_YEAR
+# Kurt Hättasch - Fangschuß: Notizen aus der U-Haft (2026)
 
-![TODO_BOOK_AUTHOR_NAME_YEAR](cover.avif)
+![Kurt Hättasch - Fangschuß: Notizen aus der U-Haft (2026)](cover.avif)
 
-TODO_BOOK_STORE_URL
+https://www.amazon.de/dp/3949041230
 
 <blockquote>
 
-TODO_BOOK_STORE_DESCRIPTION
+Fangschuß: Notizen aus der U-Haft
+
+Kurt Hättasch (Autor)
+
+4.1 out of 5 stars, (5) ratings
+
+Kurt Hättasch, Jahrgang 1999, sitzt seit dem 5. November 2024 in U-Haft.
+Man wirft ihm die Beteiligung an der Bildung einer terroristischen Vereinigung vor.
+Die Polizei schoß Hättasch nieder, als sie ihn festnehmen wollte.
+
+Hättasch beschreibt in seinen Notizen nicht nur diesen Tag,
+sondern den Alltag einer Haft, von der er nicht weiß, wann sie zuende sein wird.
+
+Unterbrochen wird die Monotonie durch Tage voller Hoffnung auf Haftentlassung und auf einen beherzten Richter,
+der nicht zuschaut, wie jemand um seine Lebenszeit gebracht wird.
+
+Hättasch ist Familienvater, Handwerksmeister, Stimmführer am Flügelhorn,
+Dozent an der Handwerkskammer, Absolvent der Offizierschule des Heeres und Jäger.
+Er war Schatzmeister der Jungen Alternative Sachsen und saß für die AfD als Fraktionschef im Stadtrat Grimma.
+
+Alles Fassade?
+Dahinter soll sich ein Umsturz vorbereitet haben?
+Selbst Mainstream-Journalisten sagen,
+daß die Indizienlage zu dünn ist für einen solchen Verdacht.
+
+Warum veröffentlicht Antaios Hättaschs Notizen aus der U-Haft?
+
+1. Wir sind nach Gesprächen und Sondierungen überzeugt davon,
+daß der Verdacht nicht bestätigt werden kann
+und halten den Prozeß für einen politischen Prozeß.
+2. Wir kennen Hättasch und seine Frau,
+nahmen ihn auf Veranstaltungen als besonnen und heimatverbunden wahr
+und glauben seiner Version der Geschichte.
+3. Wir sind der Überzeugung,
+daß aller parteipolitischer Erfolg nicht dazu führen darf,
+diejenigen zu vergessen, an denen ein Exempel statuiert werden soll.
+4. Es geht vor allem um Solidarität mit einer jungen Familie.
+Sie ist unter anderem durch finanzielle Unterstützung möglich:
+Der Erlös aus dem Verkauf dieses Hafttagebuchs geht an Familie Hättasch und dient zur Finanzierung der Verteidigung.
+
+Das Nachwort hat Anwalt Dubravko Mandic beigesteuert.
+Er beschreibt die Struktur politischer Prozesse und juristischer Zermürbung.
+
+- Herausgeber: Verlag Antaios
+- Erscheinungstermin: 7. Juli 2026
+- Sprache: Deutsch
+- Seitenzahl der Print-Ausgabe: 272 Seiten
+- ISBN-10: 3949041230
+- ISBN-13: 9783949041235
+- Format: Gebundene Ausgabe
+- Abmessungen: 12 x 1.5 x 21 cm
+- Amazon Bestseller-Rang:
+  - Nr. 53.266 in Bücher
+  - Nr. 7 in Rechtsgeschichte
+  - Nr. 77 in Rechtslehre
+  - Nr. 7.741 in Politik & Geschichte (Bücher)
 
 </blockquote>
 
@@ -20,11 +75,11 @@ TODO_BOOK_TORRENT_MAGNET_LINK
 
 ## mirrors
 
-- https://github.com/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
+- https://github.com/milahu/kurt-haettasch-fangschuss-2026
+- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/kurt-haettasch-fangschuss-2026
+- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/kurt-haettasch-fangschuss-2026
+- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/kurt-haettasch-fangschuss-2026
+- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/milahu/kurt-haettasch-fangschuss-2026
 
 
 

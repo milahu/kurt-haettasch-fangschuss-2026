@@ -1,6 +1,10 @@
 # TODO set config values
 
-num_pages = 592
+# NOTE page 32: low contrast on the right side
+# fixed manually with color leveling (low=0.5 high=1)
+# FIXME fix bad characters by transplanting good characters
+# see also doc/chat/ChatGPT-Font-Aware-OCR-Training.md
+num_pages = 272
 
 color_pages = []
 
@@ -14,12 +18,12 @@ max_scan_width_mm = 215.88
 max_scan_height_mm = 355.567
 
 # physical page size (before unbinding)
-page_width_mm = 124
-page_height_mm = 190
+page_width_mm = 120
+page_height_mm = 205
 
 # physical page width after unbinding
 # unbinding removes a small strip (about 5 mm width) from the inside edge
-unbinded_page_width_mm = page_width_mm - 5 # 5 mm width was removed
+unbinded_page_width_mm = 115.5
 
 # TODO use 4 unbinded widths:
 # 1. top width of the first page
@@ -27,10 +31,10 @@ unbinded_page_width_mm = page_width_mm - 5 # 5 mm width was removed
 # 3. bottom width of the first page
 # 4. bottom width of the last page
 # for simplicity, we can assume linear gradients between these widths
-unbinded_page_width_front_top_mm = unbinded_page_width_mm + 0
-unbinded_page_width_front_bottom_mm = unbinded_page_width_mm + 0
-unbinded_page_width_back_top_mm = unbinded_page_width_mm + 0
-unbinded_page_width_back_bottom_mm = unbinded_page_width_mm + 0
+unbinded_page_width_front_top_mm = 116
+unbinded_page_width_front_bottom_mm = 117
+unbinded_page_width_back_top_mm = 114
+unbinded_page_width_back_bottom_mm = 115
 
 # which physical page edge is fed first into the document scanner?
 # that edge becomes the scan top edge
@@ -175,8 +179,8 @@ image_viewer = "feh"
 
 fill_white_pages_lightness_file = "0683-lightness.txt"
 
-# 099.999270 325.tiff # white
-# 099.792250 001.tiff # non-white
+# 100.000000 270.tiff # white
+# 099.842477 001.tiff # text
 fill_white_pages_white_lightness_threshold = 99.99 / 100 # 99.99%
 
 
@@ -187,6 +191,8 @@ deskew_lightness_file = "0683-lightness.txt"
 
 # Threshold to consider a page "white" (mean lightness close to 1)
 # deskew_white_lightness_threshold = 99.99 / 100 # 99.99%
+# 099.999902 270.tiff # white
+# 099.842477 001.tiff # text
 deskew_white_lightness_threshold = 99.95 / 100 # 99.95%
 # deskew_white_lightness_threshold = 99.90 / 100 # 99.90%
 
